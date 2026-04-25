@@ -1,4 +1,4 @@
-# Event-Loop Toolkit
+# C++ Toolkit
 
 A small C++ toolkit that demonstrates three reusable patterns:
 
